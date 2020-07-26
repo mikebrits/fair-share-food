@@ -9,7 +9,7 @@ export default function Home() {
 			</Head>
 
 			<main>
-				<h1 className="title">Welcome to Fair Share Food Staging!</h1>
+				<h1 className="title">Welcome to Fair Share Food Feature!</h1>
 
 				<p className="description">Ensuring charity is fair and goes to those in need.</p>
 			</main>
