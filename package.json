@@ -8,8 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "@react-firebase/auth": "^0.2.10",
+    "firebase": "^7.17.1",
     "next": "9.4.4",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "styled-components": "^5.1.1"
   }
 }
